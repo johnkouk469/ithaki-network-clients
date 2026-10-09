@@ -1,0 +1,12 @@
+# Request codes of one Ithaki virtual-lab session (Computer Networks I).
+# Copy this file to ithaki.properties and replace the XXXX parts with the
+# codes shown on your own session page. Do not commit ithaki.properties.
+echo_request_code=EXXXX
+image_request_code=MXXXX
+image_request_code_with_errors=GXXXX
+gps_request_code=PXXXX
+ack_request_code=QXXXX
+nack_request_code=RXXXX
+
+# Optional. Folder for the images and the Excel files (default: the working folder).
+# output_dir=out

@@ -1,0 +1,21 @@
+# Request codes and ports of one Ithaki virtual-lab session (Computer Networks II).
+# Copy this file to ithaki.properties and replace the XXXX parts with the
+# values shown on your own session page. Do not commit ithaki.properties.
+client_port=48000
+server_port=38000
+echo_request_code=EXXXX
+image_request_code=MXXXX
+audio_request_code=AXXXX
+ithakicopter_code=QXXXX
+obd_ii_code=VXXXX
+
+# Optional, with the defaults shown.
+# Folder for the images, the temperature file and the Excel workbook (default: the working folder).
+# output_dir=out
+# Name of the Excel workbook with all the measurements.
+# workbook_file=session.xlsx
+# Address of the lab server.
+# server_ip=155.207.18.208
+# UDP ports of the Ithakicopter telemetry: on this computer and on the server.
+# copter_client_port=48078
+# copter_server_port=48078

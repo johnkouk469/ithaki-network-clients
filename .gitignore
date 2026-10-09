@@ -1,0 +1,23 @@
+# Java
+*.class
+*.jar
+*.war
+hs_err_pid*
+
+# IDE
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+.vscode/
+bin/
+out/
+target/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Session codes (copy ithaki.properties.example)
+ithaki.properties
